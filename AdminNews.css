@@ -1,0 +1,90 @@
+
+.admin-container {
+    max-width: 900px;
+    margin: 40px auto;
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  
+  .admin-container h1 {
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    color: #1E3A8A;
+    margin-bottom: 30px;
+  }
+  
+ 
+  .admin-form {
+    background: #F9FAFB;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  
+  .admin-form .form-group {
+    margin-bottom: 15px;
+  }
+  
+  
+  .admin-form .form-control {
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+
+  .admin-form .btn {
+    width: 100%;
+    font-size: 1rem;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+ 
+  .table {
+    margin-top: 30px;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  
+  .table thead {
+    background: #1E3A8A;
+    color: white;
+  }
+  
+  .table th, .table td {
+    padding: 12px;
+    text-align: center;
+  }
+  
+  .table tbody tr:hover {
+    background: #F1F5F9;
+  }
+  
+  
+  .action-buttons button {
+    margin-right: 8px;
+  }
+  
+  
+  .create-news-btn {
+    display: block;
+    margin: 20px auto;
+    background: #3B82F6;
+    color: white;
+    font-size: 1rem;
+    padding: 12px;
+    border-radius: 6px;
+    width: 100%;
+    text-align: center;
+    transition: 0.3s;
+  }
+  
+  .create-news-btn:hover {
+    background: #2563EB;
+  }
+  
